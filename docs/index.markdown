@@ -14,8 +14,8 @@ Learning currently exposes information in the following screens:
 ## Battle
 
 - Push `L` or `R` in battle to page through visible information for players and monsters.
-- Player HP/MP, status effects, boosts, and elemental vulnerabilities, & more
-- Monster LVL, HP/MP, ATB meter, steals/drops, creature type, elemental vulnerabilities, status vulnerabilities, & more
+- Player HP/MP, status effects, boosts, and elemental affinities, & more
+- Monster LVL, HP/MP, ATB meter, steals/drops, creature type, elemental affinities, status affinities, & more
 
 ## Job
 
@@ -35,7 +35,7 @@ Learning currently exposes information in the following screens:
 - Stat boosts
 - Weapon and Armor category
 - Status effects given and immunity for Armor
-- Elemental vulnerabilities for Armor
+- Elemental affinities for Armor
 - Damage Formulas and Parameters for Weapons
 - Mag Evade calculation
 
