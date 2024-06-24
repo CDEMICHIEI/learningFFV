@@ -32,7 +32,7 @@ url: https://cdemichiei.github.io/learningFFV/  # the base hostname and protocol
 # baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
 
 # Build settings
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 # plugins:
 # - jekyll-feed
 
